@@ -5,7 +5,7 @@ try:
     connection = pymysql.connect(
         host="localhost",
         user="root",
-        password="@Rudransh123",
+        password="shilpi",
         database="librarymgmtdb"
     )
     cursor = connection.cursor()
